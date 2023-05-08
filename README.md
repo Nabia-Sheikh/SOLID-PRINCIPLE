@@ -3,15 +3,15 @@ SOLID Principle in software development using Nest JS.
 
 SOLID principle is an acronym that stands for 5 key principles in software development: 
 
-#S – Single Responsibility Principle
+S – Single Responsibility Principle
 
-#O – Open Closed Principle 
+O – Open Closed Principle 
 
-#L – Liskov Substitution Principle
+L – Liskov Substitution Principle
 
-#I – Interface Segregation Principle
+I – Interface Segregation Principle
 
-#D – Dependency Inversion Principle
+D – Dependency Inversion Principle
 
 It has become one of the key principles in modern software development to ensure the code is using these SOLID principles. Following are the advantages that offer while using SOLID principles in your software development.
 
